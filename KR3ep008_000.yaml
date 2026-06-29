@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ep008/jc/v1/juan/0
+seq: 0
+front:
+  text: 序古人往矣不朽者言與德功並重士不良相即良醫載籍極博軒岐之所以壽世也抱元子長水名裔資敏學優好著述河洛之元機羲周之祕蘊鉤深致遠一一寓之於醫醫之為業代有名家攄所得以立說汗牛充棟抱元子以為我既托諸空言不如載之臨症之深切著明也搜羅奇症而以常理釋之闡天文抒地理引人事旁及品類名之以匯盧扁而韓董者也當湖錢太史敦堂其襟戚也辨言以策其行世者二十稔矣顧第勿自信足跡所經靡不咨諏窮年矻矻句竄字易或得之朋儕坐對之時或得之風雨孤燈之夜飲食而夢寐者胥是也今夫操刀上游都市鏡人之疾者目未睹耳未聞其不眉攢而手棘也幾希得是書而證之瞭然若指諸掌豈不大快枕中之祕何如肘後之方乎爰請奉諸梨棗以附於不朽之言乾隆丙午仲春上浣姻世侄李篪頓首
+  hash: sha256:fed1efe060da2fedb981b687543f68867ed0ceea3fa0134c61f890a66dd9ec08
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ep008_jc_000-d2.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 奇症彙
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep008.xml
+hash: sha256:b22606d9d9312c23a8d83752ff5ecfbdb1c738aaa5da33f9900fb09832d2ce78

@@ -1,0 +1,300 @@
+canonical_identifier: bkk:krp/KR3ep008/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep008/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 奇症彙
+  identifiers:
+    krp: KR3ep008
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep008.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep008_000-jc.yaml, hash: 'sha256:91d456f2bef54386f08caf410a5bc0e92c65b3d0cb15e5270cdf2702744aea1e'}
+  - {seq: 1, filename: KR3ep008_001-jc.yaml, hash: 'sha256:bd7c3913036741a05a806ebd3283c76ecf532bfccccf7eaf03c37c272ec37573'}
+  - {seq: 2, filename: KR3ep008_002-jc.yaml, hash: 'sha256:95a2ce9a8f506da24d541663d9328d46bbc7f58bfec963c4f2a01d964c460457'}
+  - {seq: 3, filename: KR3ep008_003-jc.yaml, hash: 'sha256:8cc0112758cb9b5c32d5a98b8e9370787930d7054a679894cd451170fd9b5613'}
+  - {seq: 4, filename: KR3ep008_004-jc.yaml, hash: 'sha256:b6558e942b96d73b1dfb9434241195af54ae3666e87dc88ea13a2b279613b61f'}
+  - {seq: 5, filename: KR3ep008_005-jc.yaml, hash: 'sha256:629afe87da8372ee7c6f6d3522793f6cd6a6ff0f3f7bd5be641d5064a31aa453'}
+  - {seq: 6, filename: KR3ep008_006-jc.yaml, hash: 'sha256:5f8d603429abe7499155ab5abdc7c9a2b8d9a3ebefdd0f212b99cf849de733c7'}
+  - {seq: 7, filename: KR3ep008_007-jc.yaml, hash: 'sha256:8a9cd835e6d9dd00d1bbec4b2469fcbe3785f2b5d6d872e2ebf91cf641a90bd1'}
+  - {seq: 8, filename: KR3ep008_008-jc.yaml, hash: 'sha256:94120b266d1bf0db38decc1fd7957dd2620d7f5eb60396bdfc495180e6ed3cf2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep008_000-jc.markers.yaml, hash: 'sha256:d1b33fa00658b24ce1c67d1a0cfa05af8211fe1c12aa11df67bebf3cdde1ac5d'}
+  - {seq: 1, role: markers, filename: assets/KR3ep008_001-jc.markers.yaml, hash: 'sha256:8383885fff5c42140545c7362ef254e9d6255284789e54ecbd8b06db9df55a25'}
+  - {seq: 2, role: markers, filename: assets/KR3ep008_002-jc.markers.yaml, hash: 'sha256:e15e8a333258701b49b23552a8dc925f972ccd2a4f27d25bd6c2442726c8006f'}
+  - {seq: 3, role: markers, filename: assets/KR3ep008_003-jc.markers.yaml, hash: 'sha256:f3c463355c42bff593337d91c60a67f26c4d50ffef9502d1c8933b7e64f62640'}
+  - {seq: 4, role: markers, filename: assets/KR3ep008_004-jc.markers.yaml, hash: 'sha256:36653fcd987cce6fb2f12f440815df5ebc2beff9a15e0d66e1180216bb79ff5a'}
+  - {seq: 5, role: markers, filename: assets/KR3ep008_005-jc.markers.yaml, hash: 'sha256:d519ab9243335e5abe0784a0d26599fc8bc653b324522fc67aeea11aa3e6d125'}
+  - {seq: 6, role: markers, filename: assets/KR3ep008_006-jc.markers.yaml, hash: 'sha256:13c2bb917de0711e96af118d400e2d70a9a812dfce665fcb689a9a96b6672298'}
+  - {seq: 7, role: markers, filename: assets/KR3ep008_007-jc.markers.yaml, hash: 'sha256:474659b0d1140c1e6689c686c24fefb80542cf569a39a2832699f2a6d51954ab'}
+  - {seq: 8, role: markers, filename: assets/KR3ep008_008-jc.markers.yaml, hash: 'sha256:55b114f6b154499c74ad5cb854dcef8c2274f08489f815a8f9fb9db4f11a7644'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep008_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 297
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep008_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9173
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep008_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 3318
+  label: 頭
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep008_jc_001-d3d3
+    span:
+    - body
+    - 3318
+    - 9173
+  label: 目
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep008_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7486
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep008_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 4525
+  label: 耳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep008_jc_002-d4d3
+    span:
+    - body
+    - 4525
+    - 5993
+  label: 鼻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep008_jc_002-d4d4
+    span:
+    - body
+    - 5993
+    - 7486
+  label: 舌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep008_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 7901
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep008_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 4638
+  label: 口
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep008_jc_003-d5d3
+    span:
+    - body
+    - 4638
+    - 6123
+  label: 面
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep008_jc_003-d5d4
+    span:
+    - body
+    - 6123
+    - 6786
+  label: 項
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep008_jc_003-d5d5
+    span:
+    - body
+    - 6786
+    - 7901
+  label: 喉
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep008_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 8950
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep008_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 8950
+  label: 心神
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ep008_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 6921
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ep008_jc_005-d7d2
+    span:
+    - body
+    - 3
+    - 2184
+  label: 胸
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ep008_jc_005-d7d3
+    span:
+    - body
+    - 2184
+    - 6921
+  label: 腹
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ep008_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 8247
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ep008_jc_006-d8d2
+    span:
+    - body
+    - 3
+    - 8247
+  label: 身
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ep008_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 8682
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ep008_jc_007-d9d2
+    span:
+    - body
+    - 3
+    - 2437
+  label: 背
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ep008_jc_007-d9d3
+    span:
+    - body
+    - 2437
+    - 8682
+  label: 手足
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ep008_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 5206
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ep008_jc_008-d10d2
+    span:
+    - body
+    - 3
+    - 3863
+  label: 溺孔
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ep008_jc_008-d10d3
+    span:
+    - body
+    - 3863
+    - 5206
+  label: 肛門
+  type: section
+  level: 2
+hash: sha256:8bea96e98c1e412ad1e0c137a7dbf84ddd7bbef8067970b0f25a2371a8953846
